@@ -174,7 +174,7 @@ If you use this tool in your research, please cite:
 ```bibtex
 @software{data_anonymizer,
   title={Data Anonymizer Tool},
-  author={JACE Studio},
+  author={Christophe Amoussouvi},
   year={2025},
   url={https://github.com/jace-solutions/data-anonymizer}
 }
